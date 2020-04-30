@@ -1,7 +1,7 @@
 from random import randint
 
 print("CARTA-FORBICI-SASSO CONTRO TROLLMIND")
-print("developed by Il Sultano")
+print("developed by Adel Salah")
 print("\n Come ti chiami ominide?")
 nome = input ()
 print("\n Wow! Bel nome di me**a " + nome + " complimenti!")
